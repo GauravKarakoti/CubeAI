@@ -34,5 +34,85 @@
     {
         "role": "assistant",
         "content": "It seems like you've provided answers to a set of questions about your interests, skills, and career goals.\n\nBased on your answers, it appears that:\n\n* Your top interests and passions are robotics and AI.\n* You currently have coding skills and want to develop electronics skills.\n* You prefer hands-on technical work.\n* You thrive in a startup work environment.\n* Your long-term vision is to own a billion-dollar company.\n\nIs there anything specific you'd like to discuss or explore further based on these answers?"
+    },
+    {
+        "role": "user",
+        "content": "Hello what's up.?"
+    },
+    {
+        "role": "assistant",
+        "content": "Not much! Just chatting with you. How about you?"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again!"
+    },
+    {
+        "role": "user",
+        "content": "Professional recommendation."
+    },
+    {
+        "role": "assistant",
+        "content": "Based on your previous answers, I would recommend exploring careers in robotics and AI, particularly in startups. With your coding skills and interest in developing electronics skills, you may find opportunities in companies that focus on robotics, automation, or IoT. Consider roles such as a robotics engineer, AI/ML engineer, or a technical lead in a startup."
+    },
+    {
+        "role": "user",
+        "content": "Professional recommendation."
+    },
+    {
+        "role": "assistant",
+        "content": "Consider pursuing a Master's degree in Robotics or a related field to enhance your skills and knowledge. This will not only boost your technical expertise but also increase your chances of landing leadership roles or founding your own billion-dollar company in the future."
+    },
+    {
+        "role": "user",
+        "content": "Sajest profession."
+    },
+    {
+        "role": "assistant",
+        "content": "Based on your interests and skills, I would suggest the profession of Robotics Engineer."
+    },
+    {
+        "role": "user",
+        "content": "Sajest profession."
+    },
+    {
+        "role": "assistant",
+        "content": "AI/ML Engineer"
+    },
+    {
+        "role": "user",
+        "content": "Profession recommendation."
+    },
+    {
+        "role": "assistant",
+        "content": "Technical Lead in a Robotics Startup"
+    },
+    {
+        "role": "user",
+        "content": "Profession recommendation."
+    },
+    {
+        "role": "assistant",
+        "content": "Founder/CEO of a Robotics and AI company"
+    },
+    {
+        "role": "user",
+        "content": "Light recommendation."
+    },
+    {
+        "role": "assistant",
+        "content": "Electronics Engineer"
     }
 ]
